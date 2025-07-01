@@ -48,7 +48,7 @@ body {
 }
 
 .map-header p {
-    color: #555;
+    color: var(--black);
     max-width: 600px;
     margin: 0 auto;
 }
@@ -57,8 +57,7 @@ body {
 .map-responsive {
     position: relative;
     overflow: hidden;
-    /* Proporção 16:9 (9 / 16 * 100 = 56.25%). Ajuste se o seu mapa tiver outra proporção. */
-    padding-top: 100%; 
+    padding-top: 50%; 
 }
 
 .map-responsive iframe {
