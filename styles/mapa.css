@@ -58,7 +58,7 @@ body {
     position: relative;
     overflow: hidden;
     /* Proporção 16:9 (9 / 16 * 100 = 56.25%). Ajuste se o seu mapa tiver outra proporção. */
-    padding-top: 56.25%; 
+    padding-top: 100%; 
 }
 
 .map-responsive iframe {
