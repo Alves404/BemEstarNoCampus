@@ -15,7 +15,6 @@ O projeto **Bem-Estar no Campus** nasceu como uma iniciativa para criar um espa�
 ### ✨ Recursos Principais
 
 * **Conteúdo Especializado:** Artigos e guias sobre temas como ansiedade, gestão de estresse, procrastinação e dicas para uma rotina de estudos saudável.
-* **Diretório de Recursos:** Uma lista centralizada com contatos de serviços de apoio psicológico oferecidos pela universidade, além de linhas de ajuda e ONGs.
 * **Dicas e Estratégias:** Ferramentas práticas e técnicas de relaxamento, organização e mindfulness que podem ser aplicadas no dia a dia.
 * **Interface Amigável e Responsiva:** Projetado para ser acessível e fácil de usar em qualquer dispositivo, garantindo que a ajuda esteja sempre ao alcance.
 
